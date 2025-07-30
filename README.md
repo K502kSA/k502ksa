@@ -1,44 +1,45 @@
-<h2 align="left">Hi 👋! My name is Musallam Al-Dossari. and I'm a 17 old, from Saudi Arabia.</h2>
+<h1 align="center">Hi 👋, I'm K502kSA</h1>
+<p align="center">
+  💻 Developer specialized in:
+</p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k502ksa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k502ksa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  🤖 Creator of an AI Discord Bot <br />
+  <a href="https://discord.com/oauth2/authorize?client_id=1376483030557786113" target="_blank">🎯 Invite My Bot</a>
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/996400777486680124/a0d4f601c3f71086dfa28c3c978353b7.png?size=4096"  />
+### 📊 GitHub Stats & Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K502kSA&layout=compact&theme=github_dark&langs_count=6" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+### 🚀 Featured Projects:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=K502kSA&repo=discord-bot-handler-14&theme=github_dark" />
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="https://youtube.com/@k502ksa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+### 📬 Connect with Me:
+<p align="center">
+  <a href="https://instagram.com/K502kSA" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://www.instagram.com/k502ksa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://discord.com/users/1223349871241576458" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/k502ksa/k502ksa/output/snake.svg" alt="Snake animation" />
-
-###
+</p>
+<p align="center">
+  🧠 Discord Username: <code>5o.p</code>
+</p>
