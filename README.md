@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm K502kSA</h1>
 <p align="center">
-  💻 Developer specialized in:
+  🇸🇦 Saudi Developer <br />
+  💻 Specialized in:
 </p>
 
 <p align="center">
@@ -40,6 +41,9 @@
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
 <p align="center">
-  🧠 Discord Username: <code>5o.p</code>
+  🧠 Discord Username: <code>5o.p</code><br />
+  🆔 Discord ID: <code>996400777486680124</code><br />
+  🎂 My birthdate: <code><t:677068080:F></code> — <code><t:677068080:R></code>
 </p>
