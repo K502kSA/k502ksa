@@ -11,6 +11,7 @@
 - I build intelligent Discord bots and backend systems  
 - Passionate about automation, Discord APIs, and building useful tools  
 - I create projects with long-term vision and scalable structure  
+- 👑 Owner of **Team 404 Found**
 
 ---
 
@@ -63,10 +64,16 @@
 
 ---
 
-## 🎯 My Goal
+## 📸 Instagram Projects
 
-I’m currently building a dedicated **developer team** to work on **large-scale Discord and backend projects**.  
-If you're passionate about bots, systems, or automation — feel free to reach out and collaborate!
+<p align="center">
+  <a href="https://instagram.com/K502kSA" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20My%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+> I also share some **exclusive projects, previews, and content** on my Instagram.  
+Check it out and follow to stay updated!
 
 ---
 
