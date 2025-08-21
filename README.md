@@ -63,12 +63,6 @@
 
 ---
 
-## 👑 Team Owner
-
-**404 Found**
-
----
-
 ## 📬 Contact Me
 
 <p>
