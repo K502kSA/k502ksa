@@ -7,10 +7,13 @@
 ---
 
 ## 🧠 About Me
-- I’m a self-taught developer from Saudi Arabia  
-- I build intelligent Discord bots and backend systems  
-- Passionate about automation, Discord APIs, and building useful tools  
-- I create projects with long-term vision and scalable structure  
+I’m K502kSA, a Discord bot developer who loves diving into all kinds of tech.  
+I specialize in creating intelligent bots and practical tools that simplify tasks and enhance communities.  
+
+My strongest skills are Discord.js, and I always focus on **performance** and **clean, organized code**.  
+Beyond coding, I enjoy **video editing, graphic design, and digital art**, which adds creativity to my projects.  
+
+I’m always exploring new ideas, collaborating with others, and pushing my projects to be scalable and impactful.
 
 ---
 
