@@ -65,7 +65,7 @@ I’m always exploring new ideas, collaborating with others, and pushing my proj
   <a href="https://discord.com/users/996400777486680124" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5o.p-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://instagram.com/K502kSA" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-K502kSA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/g4.qa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-g4.qa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
