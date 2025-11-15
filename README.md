@@ -7,13 +7,12 @@
 ---
 
 ## 🧠 About Me
-I’m K502kSA, a Discord bot developer who loves diving into all kinds of tech.  
-I specialize in creating intelligent tools, services, and systems that make communities better.  
+I’m **K502kSA**, a Saudi developer focused on building fast and practical solutions.  
+I work with **JavaScript** and **Java**, developing Discord systems, Spigot plugins, and tools that improve communities and servers.
 
-My strongest skills are **JavaScript and Java**, and I always focus on **performance** and **clean, organized code**.  
-Beyond coding, I enjoy **video editing, graphic design, and digital art**, which adds creativity to my projects.
+Outside of programming, I enjoy **video editing, design, and digital art**, which adds creativity to my projects.
 
-I’m always exploring new ideas, collaborating with others, and pushing my projects to be scalable and impactful.
+I’m always learning, experimenting, and turning ideas into useful, real-world tools.
 
 ---
 
