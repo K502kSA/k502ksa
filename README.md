@@ -8,10 +8,10 @@
 
 ## 🧠 About Me
 I’m K502kSA, a Discord bot developer who loves diving into all kinds of tech.  
-I specialize in creating intelligent bots and practical tools that simplify tasks and enhance communities.  
+I specialize in creating intelligent tools, services, and systems that make communities better.  
 
-My strongest skills are Discord.js, and I always focus on **performance** and **clean, organized code**.  
-Beyond coding, I enjoy **video editing, graphic design, and digital art**, which adds creativity to my projects.  
+My strongest skills are **JavaScript and Java**, and I always focus on **performance** and **clean, organized code**.  
+Beyond coding, I enjoy **video editing, graphic design, and digital art**, which adds creativity to my projects.
 
 I’m always exploring new ideas, collaborating with others, and pushing my projects to be scalable and impactful.
 
@@ -22,7 +22,7 @@ I’m always exploring new ideas, collaborating with others, and pushing my proj
 ### 🔤 Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
 </p>
@@ -31,6 +31,7 @@ I’m always exploring new ideas, collaborating with others, and pushing my proj
 <p>
   <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spigot-ED8106?logo=java&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### 🧰 Tools
@@ -56,14 +57,6 @@ I’m always exploring new ideas, collaborating with others, and pushing my proj
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=K502kSA&repo=discord-bot-handler-14&theme=github_dark" />
 </p>
 
-### 🤖 AI Discord Bot
-
-> A smart AI-powered Discord bot built for seamless conversations, automation, and integrations.
-
-- 🔗 [Invite the Bot](https://discord.com/oauth2/authorize?client_id=1376483030557786113)
-- 🧠 Features: Custom commands, intelligent replies, fast & stable performance
-- ⚙️ Built with: Discord.js, Node.js
-
 ---
 
 ## 📬 Contact Me
@@ -75,3 +68,4 @@ I’m always exploring new ideas, collaborating with others, and pushing my proj
   <a href="https://instagram.com/K502kSA" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-K502kSA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
