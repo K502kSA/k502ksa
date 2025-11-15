@@ -6,16 +6,6 @@
 
 ---
 
-## 🧠 About Me
-I’m **K502kSA**, a Saudi developer focused on building fast and practical solutions.  
-I work with **JavaScript** and **Java**, developing Discord systems, Spigot plugins, and tools that improve communities and servers.
-
-Outside of programming, I enjoy **video editing, design, and digital art**, which adds creativity to my projects.
-
-I’m always learning, experimenting, and turning ideas into useful, real-world tools.
-
----
-
 ## 🧰 My Skills
 
 ### 🔤 Languages
