@@ -18,10 +18,10 @@
 
 ### 🧱 Libraries & Frameworks
 <p>
+  <!-- Node / Discord -->
   <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/@discordjs/rest-5865F2?logo=discord&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spigot-ED8106?logo=java&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/node-fetch-00AABB?logo=node.js&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/g4f-6F42C1?logo=ai&logoColor=fff&style=for-the-badge" />
@@ -31,6 +31,13 @@
   <img src="https://img.shields.io/badge/fs-extra-F0DB4F?logo=node.js&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/path-0088CC?style=for-the-badge&logo=path&logoColor=fff" />
   <img src="https://img.shields.io/badge/dotenv-5271FF?style=for-the-badge&logo=dotenv&logoColor=fff" />
+  
+  <!-- Minecraft / Java -->
+  <img src="https://img.shields.io/badge/Spigot-ED8106?logo=java&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bukkit-00AEEF?logo=java&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vault-FFA500?logo=java&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PlaceholderAPI-8B008B?logo=java&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GeyserAPI-228B22?logo=java&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### 🧰 Tools
@@ -38,6 +45,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" />
 </p>
 
 ### ☁️ Hosting
@@ -45,15 +53,6 @@
   <img src="https://img.shields.io/badge/VPS-007BFF?style=for-the-badge&logo=cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Replit-667881?logo=replit&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/BotHosting-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
-## 🚀 My Projects
-
-### 📁 discord-bot-handler-14
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=K502kSA&repo=discord-bot-handler-14&theme=github_dark" />
 </p>
 
 ---
