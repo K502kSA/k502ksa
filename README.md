@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K502kSA</h1>
 
 <p align="center">
-  <strong>🇸🇦 Saudi Developer</strong> • <strong>Discord ID: 996400777486680124</strong>
+  <strong>🇸🇦 Developer</strong> • <strong>Discord ID: 996400777486680124</strong>
 </p>
 
 ---
