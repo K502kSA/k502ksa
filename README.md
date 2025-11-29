@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### 🧱 Libraries & Frameworks
