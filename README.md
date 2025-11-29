@@ -48,13 +48,6 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" />
 </p>
 
-### ☁️ Hosting
-<p>
-  <img src="https://img.shields.io/badge/VPS-007BFF?style=for-the-badge&logo=cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-667881?logo=replit&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BotHosting-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
-</p>
-
 ---
 
 ## 📬 Contact Me
