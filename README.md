@@ -20,7 +20,6 @@
 <p>
   <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/@discordjs/rest-5865F2?logo=discord&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/discord-api-types-5865F2?logo=discord&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Spigot-ED8106?logo=java&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" />
@@ -31,9 +30,6 @@
   <img src="https://img.shields.io/badge/ms-0DAB76?style=for-the-badge&logo=ms&logoColor=fff" />
   <img src="https://img.shields.io/badge/fs-extra-F0DB4F?logo=node.js&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/path-0088CC?style=for-the-badge&logo=path&logoColor=fff" />
-  <img src="https://img.shields.io/badge/form-data-FF7F50?style=for-the-badge&logo=formstack&logoColor=fff" />
-  <img src="https://img.shields.io/badge/jszip-FFB347?style=for-the-badge&logo=js&logoColor=000" />
-  <img src="https://img.shields.io/badge/chalk-FF6347?style=for-the-badge&logo=chalk&logoColor=fff" />
   <img src="https://img.shields.io/badge/dotenv-5271FF?style=for-the-badge&logo=dotenv&logoColor=fff" />
 </p>
 
